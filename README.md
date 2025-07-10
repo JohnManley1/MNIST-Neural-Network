@@ -2,6 +2,10 @@
 
 This project implements a neural network **entirely from scratch** to classify digits from the MNIST dataset. No deep learning libraries were used, only NumPY. It includes a customizable NN, backpropagation logic, an interactive digit drawing board built with Pygame, and an analysis of the model's perfeormance.
 
+## 🎥 Demo Video
+
+[![Watch the demo] (https://youtu.be/EmPj6AUtp00)
+
 ## Project Overview:
 This project was designed to strengthen my understanding of core neural network concepts and the end-to-end training pipeline, including:
 * Manual implementation of a multi-layer neural network with lots of customizations
