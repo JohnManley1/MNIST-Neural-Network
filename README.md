@@ -4,7 +4,7 @@ This project implements a neural network **entirely from scratch** to classify d
 
 ## 🎥 Demo Video
 
-[![Watch the demo] (https://youtu.be/EmPj6AUtp00)
+**!!![Watch the demo]!!!** (https://youtu.be/EmPj6AUtp00)
 
 ## Project Overview:
 This project was designed to strengthen my understanding of core neural network concepts and the end-to-end training pipeline, including:
