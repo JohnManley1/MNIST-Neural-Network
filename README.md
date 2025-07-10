@@ -13,7 +13,6 @@ This project was designed to strengthen my understanding of core neural network 
 
 ## What I Accomplished:
 * Built a **feedforward neural network** with:
-  - Weight initialization
   - Forward and backward propagation
   - Cross-entropy loss and softmax
   - Customizable hidden layer activation
